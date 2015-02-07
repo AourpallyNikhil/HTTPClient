@@ -1,6 +1,11 @@
+
+
 Name:Nikhil Aourpally
 ASU ID: 1207412189
 
+This Project is a cURL( http://curl.haxx.se/download.html) like HTTP Client.
+Project is written in Python and has several features like Re-directs,Chunked encoding.
+gZip functionality is yet to be added.
 
 main()
 **creates connection
