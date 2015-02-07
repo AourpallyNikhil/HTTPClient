@@ -1,0 +1,29 @@
+Name:Nikhil Aourpally
+ASU ID: 1207412189
+
+
+main()
+**creates connection
+**extracts header from received buffer
+**call several other function
+**Handle Re-directs
+
+getheader()
+**extracts header from received buffer
+
+inputurlparse()
+**parses the input URL
+
+chunkedencode()
+**Handles chunked encoding
+
+nonchunked
+**Handles non chunked responses
+
+
+
+
+
+
+
+
